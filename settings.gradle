@@ -1,0 +1,10 @@
+rootProject.name = 'pCollect'
+
+include 'article-service'
+include 'customer-service'
+include 'customer-service-mvc'
+include 'gatling-tests'
+include 'market-service'
+include 'purchase-service'
+
+
